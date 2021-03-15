@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TodolListApp/static/css/main.c2249b5b.chunk.css",
+    "main.js": "/TodolListApp/static/js/main.030e9f29.chunk.js",
+    "main.js.map": "/TodolListApp/static/js/main.030e9f29.chunk.js.map",
+    "runtime-main.js": "/TodolListApp/static/js/runtime-main.c2274b2b.js",
+    "runtime-main.js.map": "/TodolListApp/static/js/runtime-main.c2274b2b.js.map",
+    "static/css/2.d4ea9e66.chunk.css": "/TodolListApp/static/css/2.d4ea9e66.chunk.css",
+    "static/js/2.90fc2452.chunk.js": "/TodolListApp/static/js/2.90fc2452.chunk.js",
+    "static/js/2.90fc2452.chunk.js.map": "/TodolListApp/static/js/2.90fc2452.chunk.js.map",
+    "index.html": "/TodolListApp/index.html",
+    "static/css/2.d4ea9e66.chunk.css.map": "/TodolListApp/static/css/2.d4ea9e66.chunk.css.map",
+    "static/css/main.c2249b5b.chunk.css.map": "/TodolListApp/static/css/main.c2249b5b.chunk.css.map",
+    "static/js/2.90fc2452.chunk.js.LICENSE.txt": "/TodolListApp/static/js/2.90fc2452.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TodolListApp/static/media/bg-desktop-light.3508d620.jpg",
+    "static/media/font-awesome.min.css": "/TodolListApp/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2274b2b.js",
+    "static/css/2.d4ea9e66.chunk.css",
+    "static/js/2.90fc2452.chunk.js",
+    "static/css/main.c2249b5b.chunk.css",
+    "static/js/main.030e9f29.chunk.js"
+  ]
+}
